@@ -1,12 +1,3 @@
-Team {Code Hustlers} - Solving Problem Statment 3 (Blog Portal)
-
-
-Team Members:
-Aryan Kumawat
-Mahesh Suthar
-Vaibhav Awasti
-Yash Jain
-
 Project Live Link: http://www.jecrc.live
 
 Concept - Jecrc Blogs: This is an application where Jecrc University students can add their blogs, events, galleries, social post, news and more. In this application users can create their accounts, verified users can add guest posts, add comments on blogs and read hundreds of blogs that are related to Jecrc University. This app will help students to be up-to-date. They will not miss anything that is happening at the University. We tried to keep it simple, features rich and easy to scale when required.
